@@ -19,7 +19,7 @@ class App extends Component{
         </div>
 
         <MyName name ="리액트" pertice ="감사"/>  
-        <Counter> </Counter>
+        <Counter name = "서희륜1" paradice = "서희륜2"></Counter>
         
       </Fragment>
     );
